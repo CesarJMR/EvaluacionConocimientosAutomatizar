@@ -2,6 +2,10 @@
 Este repositorio es para posee un proyecto con el fin de ser revisado para evaluar mis conocimientos en pruebas automatizadas
 
 
+## Notas:
+El escenario fue realizado con Selenium Web Driver Java, y con Katalon Studio utlizando la función Record Web.
+
+
 ## Escenario de Prueba: 
 Buscar y añadir al carrito de compras, una "SanDisk 128GB Ultra microSDXC UHS-I Memory Card with Adapter".
 
@@ -68,6 +72,3 @@ Buscar y añadir al carrito de compras, una "SanDisk 128GB Ultra microSDXC UHS-I
 * Resultado Esperado:
 	* La ventana emergente indicando que el prodcuto fue añadido al carrito de compras.
 
-
-## Notas:
-El escenario fue realizado con Selenium Web Driver Java, y con Katalon Studio utlizando la función Record Web.
