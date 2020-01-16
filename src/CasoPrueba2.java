@@ -70,7 +70,7 @@ public class CasoPrueba2 {
             WebElement validacion = driver.findElement(By.xpath("//*[@id=\"attachDisplayAddBaseAlert\"]/div/h4"));
             WebElement resultadoEsperado = driver.findElement(By.xpath("//*[@id=\"attachDisplayAddBaseAlert\"]/div/h4"));
             if(validacion.equals(resultadoEsperado)){
-                System.out.println("\nPrueba Pasada");
+                System.out.println("\nPrueba Exitosa!!");
             } else{
                 System.out.println("\nPrueba Fallida");
             }
