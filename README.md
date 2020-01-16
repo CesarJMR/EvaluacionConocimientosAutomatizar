@@ -70,4 +70,4 @@ Buscar y añadir al carrito de compras, una "SanDisk 128GB Ultra microSDXC UHS-I
 
 
 ## Notas:
-El escenario fue realizado con Selenium Web Driver Java
+El escenario fue realizado con Selenium Web Driver Java, y con Katalon Studio utlizando la función Record Web.
