@@ -43,7 +43,7 @@ Buscar y añadir al carrito de compras, una "SanDisk 128GB Ultra microSDXC UHS-I
 ### Caso de Prueba 2:
 
 * Título:
-	* G002 Buscar de manera más general, el producto SanDisk 128GB Ultra microSDXC UHS-I Memory Card with Adapter, filtrando la búsqueda.
+	* G002 Buscar de manera más general, el producto "SanDisk 128GB Ultra microSDXC UHS-I Memory Card with Adapter", filtrando la búsqueda.
 
 * Meta: 
 	* Verificar que el producto fue encontrado y añadido al carrito satisfactoriamente.
