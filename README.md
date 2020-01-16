@@ -67,3 +67,7 @@ Buscar y añadir al carrito de compras, una "SanDisk 128GB Ultra microSDXC UHS-I
 	
 * Resultado Esperado:
 	* La ventana emergente indicando que el prodcuto fue añadido al carrito de compras.
+
+
+## Notas:
+El escenario fue realizado con Selenium Web Driver Java
