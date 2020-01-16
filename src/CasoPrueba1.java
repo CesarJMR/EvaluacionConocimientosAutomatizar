@@ -21,7 +21,7 @@ public class CasoPrueba1 {
             driver.get(baseURL);
             driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
             WebDriverWait waitVar = new WebDriverWait(driver, 10);
-
+            
         }
 
         catch (WebDriverException we){
